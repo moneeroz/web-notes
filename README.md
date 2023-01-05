@@ -1,3 +1,3 @@
 # Moneer's Notes
 ## Summary
-This repository contains all of the notes taken by Moneer for the personal web development journy
+This repository contains all of the notes taken by [Moneer](https://github.com/moneeroz) for his personal web development journy
